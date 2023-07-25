@@ -1,0 +1,20 @@
+.container-btn {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.style-btn {
+    width: 30%;
+    height: 80%;
+    border-color: rgb(190, 184, 184);
+    border-radius: 5px;
+}
+
+.style-btn:hover {
+    background-color: aqua;
+    border-radius: 5px;
+    border-color: aquamarine;
+
+}
